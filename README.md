@@ -55,7 +55,7 @@ The sprint was conducted by:
 
 ## 🔗 Project Board URL
 
-📌 [Click here to view the Final Project Kanban board](#)
+📌 [Click here to view the Final Project Kanban board](https://github.com/users/mihirishanika/projects/3/views/1)
 
 ---
 
